@@ -36,3 +36,29 @@ if (valor1 == valor2)
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,bootstrap,mysql,vscode,visualstudio,figma,linkedin,instagram,github&perline=6)
 
+# Task list #
+
+- [x] Revisar o conteúdo da aula de ontem.
+- [x] Usar novos comandos.
+- [] Chamar a atenção do Paulo usando uma notificação.
+
+> Aqui vou colocar um Emoji só por colocar :skull_and_crossbones: .
+
+## Alertas ##
+
+> [!NOTE]
+> Informações úteis que os usuários devem saber, mesmo ao ler o conteúdo rapidamente. 
+
+> [!TIP]
+> Dicas úteis para fazer as coisas de forma melhor ou com mais facilidade.
+
+> [!IMPORTANT]
+> Informações essenciais que os usuários precisam saber para atingir seu objetivo.
+
+> [!WARNING]
+> Informação urgente que exige atenção imediata do usuário para evitar problemas.
+
+> [!CAUTION]
+> Aconselha sobre os riscos ou consequências negativas de determinadas ações.
+
+
