@@ -61,4 +61,16 @@ if (valor1 == valor2)
 > [!CAUTION]
 > Aconselha sobre os riscos ou consequências negativas de determinadas ações.
 
+## Tabelas ##
 
+| Primeiro Header  | Segundo Header |
+| ------------- | ------------- |
+| Conteúdo 1  | Conteúdo 2  |
+| Conteúdo 3  | Conteúdo 4  |
+
+### Tabela alinhada ###
+
+| Alinhamento para a esquerda | Alinhamento ao centro | Alinhamento a esquerda |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
