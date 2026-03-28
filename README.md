@@ -40,7 +40,6 @@ if (valor1 == valor2)
 
 - [x] Revisar o conteúdo da aula de ontem.
 - [x] Usar novos comandos.
-- [] Chamar a atenção do Paulo usando uma notificação.
 
 > Aqui vou colocar um Emoji só por colocar :skull_and_crossbones: .
 
