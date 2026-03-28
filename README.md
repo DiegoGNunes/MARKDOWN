@@ -69,7 +69,7 @@ if (valor1 == valor2)
 
 ### Tabela alinhada ###
 
-| Alinhamento para a esquerda | Alinhamento ao centro | Alinhamento a esquerda |
+| Alinhamento para à esquerda | Alinhamento ao centro | Texto alinhado à direita |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
